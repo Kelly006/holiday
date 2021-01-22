@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { background-color: lightseagreen;
+}
+#main {
+	background-color: aliceblue;
+	Width: 580px;
+	Float: left;
+	min-height: 300px;
+	border-left: 20px solid #1B3376
+		
+}
+
+#footer{ 
+height: 35px;
+font-family: Constantia, 'Lucida Bright', 'DejaVu Serif', 'Georgia', 'serif'}
+#wrapper {
+}
+.imgLeft {
+    margin: 10;
+    float: left;
+
+}
